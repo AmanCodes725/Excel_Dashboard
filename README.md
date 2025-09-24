@@ -44,8 +44,9 @@ This repository contains an **Excel Interactive Dashboard** that provides insigh
 
 ![Dashboard Preview](./Screenshorts/23.09.2025_03.15.37_REC.png)  
 
+## LinkedIn Post
+[View Dashboard on LinkedIn](https://www.linkedin.com/posts/aman-shah-652819242_excel-powerquery-dashboard-activity-7376084398548525056-WbCz?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAADxHEV4BJMnuKykpA0fx8ygj5PM7WqikIts)
 
-"Linked in post" : https://www.linkedin.com/posts/aman-shah-652819242_excel-powerquery-dashboard-activity-7376084398548525056-WbCz?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAADxHEV4BJMnuKykpA0fx8ygj5PM7WqikIts 
 ---
 
 ## **Technologies Used**
