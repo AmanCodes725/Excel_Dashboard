@@ -42,8 +42,7 @@ This repository contains an **Excel Interactive Dashboard** that provides insigh
 
 > ⚠️ GitHub cannot render Excel dashboards interactively. To experience full interactivity, please download the file.
 
-![Dashboard Preview](.Screenshorts/23.09.2025_03.15.37_REC.png)  
-*(Optional: Add a screenshot of your dashboard in the `images` folder.)*
+![Dashboard Preview](./Screenshorts/23.09.2025_03.15.37_REC.png)  
 
 ---
 
